@@ -242,7 +242,7 @@ O modelo XGBoost apresentou a melhor precisão de todos os modelos, alcançando 
 
 ## Arquitetura do projeto <a name="arquitetura"></a>
 
-![diagram-s5](https://github.com/Compass-pb-aws-2023-FATEC/sprint-5-pb-aws-fatec/assets/128281073/414fc39a-b220-4203-9f70-6569f1cf6234)
+![diagram-s5](./public/service-architecture-prediction.png)
 
 ## Testes de unidade: <a name="testes"></a>
 
